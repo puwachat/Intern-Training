@@ -11,4 +11,4 @@ Lesson 2: Titanic Survivor Classification
 - RandomForest
 - XGBoost
 - Tensorflow Model
-![image](https://user-images.githubusercontent.com/42464592/177079222-03264260-22bf-4c2e-b7a2-72560be3daa9.png)
+![image](https://user-images.githubusercontent.com/42464592/177079279-ddd038ec-e049-4ef8-a0b1-ca53c93836c4.png)
